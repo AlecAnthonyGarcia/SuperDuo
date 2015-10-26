@@ -17,6 +17,7 @@
     <string name="ok_button">Next</string>
     <string name="cancel_button">Cancel</string>
     <string name="not_found">No Book found</string>
+    <string name="author_not_found">No Author found</string>
     <string name="no_network">Please check your Internet connection and try again.</string>
     <string name="search">Search</string>
     <string name="delete">Delete Book</string>
